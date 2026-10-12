@@ -1,0 +1,31 @@
+import data into power bi using - get data
+locate your folder than it will navigate to power query editor
+Power Query editor is a tool in PBI that allows us to clean our data
+
+ids of duplicates -
+132, 117, 113 - belongs to BK veg burger (main - 113)
+125,120 - belongs to Chicken whooper meal (main - 120)
+103,109 - crispy veg burger (main - 103)
+
+
+Pune
+Hyd
+UP
+Hyd
+Pune
+Kota
+Mumbai
+Karnataka
+Kolkata
+
+distinct - after removing duplicates, how many exact values are there - 7
+unique - count of values that are only occurring once - 5
+if distinct = uniques, it indicates that there are no duplicates
+
+
+before getting started with data clean, go to view tab and in the preview section check for column's profile, distribution and quality to understand data better.
+
+
+go to home tab to merge data from one table to another
+
+once done with cleaning data, go to home and check on close and apply which will redirect you to power bi back again
