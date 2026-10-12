@@ -1,0 +1,25 @@
+🍔 Burger King – Store Sales Review (2026)
+
+From: Regional Operations Team, Burger King India
+To: Data Analyst
+Subject: Monthly sales performance review for our Jaipur outlet
+
+Background
+We run a busy Burger King outlet and record every item sold, along with the order date and time. We also keep a menu list with each item’s category and price. Right now the store manager can’t easily see whether sales are growing or slowing month to month, which items bring in the money, or where to focus next quarter’s promotions.
+
+What we need from you
+Build a simple Power BI dashboard that shows the store’s sales performance for 2026 and answers these questions:
+
+How are we doing overall? Show total revenue, total orders, and total items sold.
+How are sales changing month by month? Which month had the highest revenue and which had the lowest?
+Are we growing? By how much did revenue go up or down compared to the previous month?
+What sells the most? Show the top 5 menu items by revenue.
+Which categories drive sales? Compare revenue across categories (Veg Burger, Chicken Burger, Meals, Sides, and so on).
+
+Data provided
+
+menu.csv: menu item ID, item name, category, price
+order_details.csv: order ID, order date, order time, item ID
+
+Deliverable
+A one-page dashboard with KPI cards, a monthly trend chart, and two bar charts that the store manager can read in under a minute.
