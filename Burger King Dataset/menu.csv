@@ -1,0 +1,33 @@
+﻿menu_item_id,item_name,category,price
+101,Veg Whopper,Veg Burger,179
+102,Chicken Whopper,Chicken Burger,199
+103,Crispy Veg Burger,Veg Burger,69
+104,Veggie Strips,Veg Sides,99
+105,Chicken Nuggets (6 pcs),Chicken Sides,99
+106,King Fries (Regular),Sides,79
+107,Chicken Nuggets (4 pcs),Chicken Sides,79
+108,Crispy Chicken Burger,Chicken Burger,99
+109,Crispy Veg Burger,Veg Burger,69
+110,Chicken Tandoori Burger,Chicken Burger,129
+111,Chicken Nuggets (9 pcs),Chicken Sides,149
+112,Fish Royale Burger,Fish Burger,179
+113,BK Classic Veg Burger,Veg Burger,99
+114,Choco Lava Cake,Dessert,99
+115,Paneer Royale Burger,Veg Burger,149
+116,Veggie Strips (5 pcs),Veg Sides,129
+117,BK Classic Veg Burger,Veg Burger,99
+118,BK Classic Chicken Burger,Chicken Burger,129
+119,Crispy Chicken Double Patty Burger,Chicken Burger,149
+120,Chicken Whopper Meal,Meals,299
+121,Peri Peri Fries (Regular),Sides,99
+122,Hot 'n' Cheesy Fries,Sides,129
+123,Cheese Veg Burger,Veg Burger,99
+124,Veg Whopper Meal,Meals,279
+125,Chicken Whopper Meal,Meals,299
+126,Chicken Tandoori Meal,Meals,229
+127,Double Crispy Veg Burger,Veg Burger,119
+128,Veggie Strips Meal,Meals,199
+129,Chocolate Thick Shake,Beverages,129
+130,King Peri Peri Chicken Wings (4 pcs),Chicken Sides,149
+131,Chicken Tandoori Wrap,Wraps,159
+132,BK Classic Veg Burger,Veg Burger,99
