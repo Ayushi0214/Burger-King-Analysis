@@ -10,11 +10,11 @@ We run a busy Burger King outlet and record every item sold, along with the orde
 What we need from you
 Build a simple Power BI dashboard that shows the store’s sales performance for 2026 and answers these questions:
 
-How are we doing overall? Show total revenue, total orders, and total items sold.
-How are sales changing month by month? Which month had the highest revenue and which had the lowest?
-Are we growing? By how much did revenue go up or down compared to the previous month?
-What sells the most? Show the top 5 menu items by revenue.
-Which categories drive sales? Compare revenue across categories (Veg Burger, Chicken Burger, Meals, Sides, and so on).
+1. How are we doing overall? Show total revenue, total orders, and total items sold.
+2. How are sales changing month by month? Which month had the highest revenue and which had the lowest?
+3. Are we growing? By how much did revenue go up or down compared to the previous month?
+4. What sells the most? Show the top 5 menu items by revenue.
+5. Which categories drive sales? Compare revenue across categories (Veg Burger, Chicken Burger, Meals, Sides, and so on).
 
 Data provided
 
